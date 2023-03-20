@@ -1,0 +1,26 @@
+@media (min-height: 500px) {
+    #background-cocacola {
+        background-image: url("images/CocaCola-Background-1280x720.png");
+        background-attachment: fixed;
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media (min-height: 700px) {
+    #background-cocacola {
+        background-image: url("images/CocaCola-Background-1600x900.png");
+        background-attachment: fixed;
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media (min-height: 800px) {
+    #background-cocacola {
+        background-image: url("images/CocaCola-Background-1920x1080.png");
+        background-attachment: fixed;
+        max-width: 100%;
+        height: auto;
+    }
+}
